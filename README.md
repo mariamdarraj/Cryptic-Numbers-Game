@@ -22,11 +22,12 @@ The game tracks the number of attempts and wins, and allows the player to select
 3. Run `NumberGame.java`
 
 ## Screenshots
-![Main Menu](assets/main_menu-background.png)
-![setting,start,Game Panel](assets/setting_start_game Panel-background.png)
-![start](assets/start-buttons.png)
-![stats](assets/stats-buttons.png)
-![setting](assets/Settings-buttons.png)
+![Settings Buttons](assets/Settings-buttons.png)
+![Main Menu](assets/main_menu-backgrounds.png)
+![Settings Start Game Panel](assets/settings_start_game_panel-backgrounds.png)
+![Start Button](assets/start-buttons.png)
+![Stats Button](assets/stats-buttons.png)
+![Stats Panel](assets/stats_panel-backgrounds.png)
 
 ## Author
 **Mariam Darraj** – Software Engineering Student
