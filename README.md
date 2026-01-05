@@ -23,7 +23,7 @@ The game tracks the number of attempts and wins, and allows the player to select
 
 ## Screenshots
 ![Main Menu](assets/main_menu-background.png)
-![setting,start,Game Panel](assets/setting,start,game Panel-background.png)
+![setting,start,Game Panel](assets/setting_start_game Panel-background.png)
 ![start](assets/start-buttons.png)
 ![stats](assets/stats-buttons.png)
 ![setting](assets/Settings-buttons.png)
