@@ -40,18 +40,18 @@ public class NumberGame extends JFrame {
 
         // Load background images
         mainBackground = new ImageIcon(
-                "C:/Users/User/OneDrive/سطح المكتب/Gemini_Generated_Image_51wetm51wetm51we-removebg-preview.png"
+                "C:/Users/User/OneDrive/سطح المكتب/assets/main_menu-backgrounds.png"
         ).getImage();
 
         startBackground = new ImageIcon(
-                "C:/Users/User/OneDrive/سطح المكتب/واجهة البرنامج.png"
+                "C:/Users/User/OneDrive/سطح المكتب/assets/settings,start,game_panel-backgrounds.png"
         ).getImage();
 
         statsBackground = new ImageIcon(
-                "C:/Users/User/OneDrive/سطح المكتب/win-removebg-preview.png"
+                "C:/Users/User/OneDrive/سطح المكتب/assets/stats_panel-backgrounds.png"
         ).getImage();
         settingsBackground = new ImageIcon(
-                "C:/Users/User/OneDrive/سطح المكتب/واجهة البرنامج.png"
+                "C:/Users/User/OneDrive/سطح المكتب/assets/settings,start,game_panel-backgrounds.png"
         ).getImage();
 
         // Create all panels
@@ -183,7 +183,7 @@ public class NumberGame extends JFrame {
         gbc.gridy = 2;
         gbc.insets = new Insets(5, 10, 2, 10);
         ImageIcon startIcon = new ImageIcon(
-                new ImageIcon("C:/Users/User/OneDrive/سطح المكتب/start.png")
+                new ImageIcon("C:/Users/User/OneDrive/سطح المكتب/assets/start-buttons.png")
                         .getImage().getScaledInstance(50, 50, Image.SCALE_SMOOTH)
         );
         JButton startBtn = new JButton(startIcon);
@@ -202,7 +202,7 @@ public class NumberGame extends JFrame {
         gbc.gridy = 4;
         gbc.insets = new Insets(5, 10, 2, 10);
         ImageIcon statsIcon = new ImageIcon(
-                new ImageIcon("C:/Users/User/OneDrive/سطح المكتب/stats.png")
+                new ImageIcon("C:/Users/User/OneDrive/سطح المكتب/assets/stats-buttons.png")
                         .getImage().getScaledInstance(50, 50, Image.SCALE_SMOOTH)
         );
         JButton statsBtn = new JButton(statsIcon);
@@ -223,7 +223,7 @@ public class NumberGame extends JFrame {
         gbc.gridy = 6;
         gbc.insets = new Insets(5, 10, 2, 10);
         ImageIcon settingsIcon = new ImageIcon(
-                new ImageIcon("C:/Users/User/OneDrive/سطح المكتب/Settings.png")
+                new ImageIcon("C:/Users/User/OneDrive/سطح المكتب/assets/Settings-buttons.png")
                         .getImage().getScaledInstance(50, 50, Image.SCALE_SMOOTH)
         );
         JButton settingsBtn = new JButton(settingsIcon);
