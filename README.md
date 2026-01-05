@@ -17,7 +17,7 @@ The game tracks the number of attempts and wins, and allows the player to select
 - OOP (Object-Oriented Programming)
 
 # How to Run
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/mariamdarraj/Cryptic-Numbers-Game.git
 2. Open the project in your preferred Java IDE (IntelliJ, Eclipse, NetBeans)
 3. Run `NumberGame.java`
 
